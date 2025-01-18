@@ -1,0 +1,289 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.4 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.4">
+  <diagram name="Страница — 1" id="yPz3XxtK4vsenGW7H9HK">
+    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-48" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="1210" y="150" width="490" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-46" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="1210" y="500" width="610" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-44" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="160" width="450" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-40" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="822.5" y="990" width="450" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-1" value="Библиотекарь" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1005" y="570" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-3" value="Добавить факт поступления экземпляра книги&lt;div&gt;в библиотеу&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-4" value="Добавить факт списания экземпляра книги" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-5" value="Добавить факт выдачи&amp;nbsp; книги читателю" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1259" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-6" value="Добавить факт возврата&amp;nbsp; книги читателем" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1259" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-7" value="Ввести информацию о состоянии экземпляра книги" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="930" y="20" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-8" value="Загрузить файл электронной версии книги" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1670" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-9" value="Добавить нового пользователя&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="860" y="1140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-10" value="Подтвердить регистрацию пользователя" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="860" y="1230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-11" value="Добавить книгу" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-12" value="Изменить книгу" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1388" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-13" value="Удалить* книгу" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1530" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-14" value="Добавить контрагента" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-15" value="Изменить контрагента" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1388" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-16" value="Удалить* контрагента" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1530" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-20" value="Добавить издателя" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="730" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-21" value="Изменить издалеля" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1388" y="730" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-22" value="Удалить* издателя" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1530" y="730" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-26" value="Добавить автора" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="820" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-27" value="Изменить автора" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1388" y="820" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-28" value="Удалить* автора" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1530" y="820" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-29" value="Приостановить регистрациию пользователя" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="995" y="1230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-30" value="Изменить пользователя" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="995" y="1140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-31" value="Удалить* пользователя" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1125" y="1140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-32" value="Удалить факт поступления экземпляра книги&lt;div&gt;в библиотеу&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="607.5" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-33" value="Изменить факт поступления экземпляра книги&lt;div&gt;в библиотеу&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="472.5" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-34" value="Изменить факт списания экземпляра книги" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="465" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-35" value="Удалить факт списания экземпляра книги" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="607.5" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-36" value="Изменить факт выдачи&amp;nbsp; книги читателю" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1391" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-37" value="Удалить факт выдачи&amp;nbsp; книги читателю" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1531" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-38" value="Изменить факт возврата&amp;nbsp; книги читателем" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1391" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-39" value="Удалить факт возврат&amp;nbsp; книги читателем" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1531" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-41" value="Работа с учётными записями читателей" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="960" y="997" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-45" value="Приход/уход экземпляров книг" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="430" y="170" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-47" value="Ведение справочников" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1426" y="510" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-49" value="Выдача/возврат экземпляров книг" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1320" y="160" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-51" value="Удалить регистрацию пользователя" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1125" y="1230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.999;entryY=0.542;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="jk8pZAf95kcXgOl9ytWV-44" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="990" y="580" as="sourcePoint" />
+            <mxPoint x="1110" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-53" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="jk8pZAf95kcXgOl9ytWV-40" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1030" y="670" as="sourcePoint" />
+            <mxPoint x="880" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-55" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" target="jk8pZAf95kcXgOl9ytWV-48" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1050" y="570" as="sourcePoint" />
+            <mxPoint x="1110" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-56" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="jk8pZAf95kcXgOl9ytWV-46" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1050" y="610" as="sourcePoint" />
+            <mxPoint x="1110" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="jk8pZAf95kcXgOl9ytWV-44" target="jk8pZAf95kcXgOl9ytWV-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1060" y="500" as="sourcePoint" />
+            <mxPoint x="954.9499999999998" y="197.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-59" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;dashed=1;" parent="1" source="jk8pZAf95kcXgOl9ytWV-48" target="jk8pZAf95kcXgOl9ytWV-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="500" as="sourcePoint" />
+            <mxPoint x="1078.033008588991" y="205.35533905932743" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-60" value="&amp;lt;&amp;lt;включает&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="810" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-61" value="&amp;lt;&amp;lt;включает&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1168" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-62" value="&lt;b&gt;* &lt;/b&gt;под удалением подразумевается возможность удалить элемент справочника в архив с возможностью его восстановления из архива в дальнейшем. Позволит иметь меньше проблем с ссылочной целостностью" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="366.25" y="1340" width="630" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-63" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="440" width="710" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-64" value="Получить список элементов справчника" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="72.5" y="490" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-65" value="Получить список книг и экземпляров книг" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="590" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-66" value="Получить книгу или экземпляр книги по ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="212.5" y="590" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-67" value="Получить элемент справочника по ID&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="207.5" y="490" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-68" value="Получить элемент справочник&amp;nbsp;по наименованию&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="490" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-69" value="Работа с данными библиотеки" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="172.5" y="450" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-70" value="Получить книгу или экземпляр книги по наименованию" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="347.5" y="590" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-71" value="Получить список фактов ухода/прихода и выдачи/возвратов" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-72" value="Получить факт по ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="212.5" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-73" value="Получить факты по ID книги или экземпляра книги" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="347.5" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-74" value="Получить список&amp;nbsp; пользователей и регистраций" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="770" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-75" value="Получить пользователя по ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="212.5" y="770" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jk8pZAf95kcXgOl9ytWV-76" value="Получить пользователя по имени" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="337.5" y="770" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hLrI45RPySUn7U1taJ00-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="990" width="600" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="hLrI45RPySUn7U1taJ00-2" value="Добавить бронь" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="197.5" y="1040" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hLrI45RPySUn7U1taJ00-5" value="Изменить бронь" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="332.5" y="1040" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hLrI45RPySUn7U1taJ00-6" value="Удалить бронь" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="462.5" y="1040" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hLrI45RPySUn7U1taJ00-7" value="Работа с бронями экземпляров книг читателями" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="366.25" y="990" width="207.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hLrI45RPySUn7U1taJ00-9" value="Получить список броней" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="197.5" y="1130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hLrI45RPySUn7U1taJ00-10" value="Получить бронь по ID брони" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="332.5" y="1130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hLrI45RPySUn7U1taJ00-11" value="Получить список броней по ID пользователя" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="462.5" y="1130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hLrI45RPySUn7U1taJ00-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.856;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="hLrI45RPySUn7U1taJ00-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="980" y="670" as="sourcePoint" />
+            <mxPoint x="620" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hLrI45RPySUn7U1taJ00-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="jk8pZAf95kcXgOl9ytWV-63" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="970" y="610" as="sourcePoint" />
+            <mxPoint x="620" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bmz1hW6QfjqNP2eKggVx-1" value="Получить факты по ID пользователя" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="482.5" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bmz1hW6QfjqNP2eKggVx-2" value="Получить факты интревалу дат" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="617.5" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bmz1hW6QfjqNP2eKggVx-3" value="Получить список броней по ID книги или экземпляра книги" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="607.5" y="1130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bmz1hW6QfjqNP2eKggVx-4" value="Загрузить фото полльзователя" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1027" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bmz1hW6QfjqNP2eKggVx-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="jk8pZAf95kcXgOl9ytWV-9" target="bmz1hW6QfjqNP2eKggVx-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="1520" as="sourcePoint" />
+            <mxPoint x="1050" y="1430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bmz1hW6QfjqNP2eKggVx-6" value="&amp;lt;&amp;lt;включает&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bmz1hW6QfjqNP2eKggVx-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="jk8pZAf95kcXgOl9ytWV-30" target="bmz1hW6QfjqNP2eKggVx-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="930" y="1460" as="sourcePoint" />
+            <mxPoint x="978" y="1415" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bmz1hW6QfjqNP2eKggVx-8" value="&amp;lt;&amp;lt;включает&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="1100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bmz1hW6QfjqNP2eKggVx-9" value="** понятие &quot;читатель&quot; условно можно понимать как &quot;пользователь&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="1340" width="290" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

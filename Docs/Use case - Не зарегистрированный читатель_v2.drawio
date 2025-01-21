@@ -1,0 +1,42 @@
+<mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+  <root>
+    <mxCell id="0" />
+    <mxCell id="1" parent="0" />
+    <mxCell id="U7CLlOOGwDEL3iCLRZDy-5" value="НЕ зарегистрированный читатель" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+      <mxGeometry x="690" y="400" width="30" height="60" as="geometry" />
+    </mxCell>
+    <mxCell id="U7CLlOOGwDEL3iCLRZDy-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+      <mxGeometry x="460" y="180" width="320" height="160" as="geometry" />
+    </mxCell>
+    <mxCell id="U7CLlOOGwDEL3iCLRZDy-10" value="Просмотр каталога книг и экземпляров книг" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+      <mxGeometry x="486.25" y="240" width="120" height="80" as="geometry" />
+    </mxCell>
+    <mxCell id="U7CLlOOGwDEL3iCLRZDy-11" value="Поиск по каталогу книг по паре столбцов" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+      <mxGeometry x="628.75" y="240" width="120" height="80" as="geometry" />
+    </mxCell>
+    <mxCell id="U7CLlOOGwDEL3iCLRZDy-14" value="Работа с каталогом книг" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+      <mxGeometry x="501.25" y="190" width="237.5" height="30" as="geometry" />
+    </mxCell>
+    <mxCell id="U7CLlOOGwDEL3iCLRZDy-31" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+      <mxGeometry x="463.75" y="560" width="450" height="160" as="geometry" />
+    </mxCell>
+    <mxCell id="U7CLlOOGwDEL3iCLRZDy-32" value="Зарегистрироваться" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+      <mxGeometry x="643.75" y="620" width="120" height="80" as="geometry" />
+    </mxCell>
+    <mxCell id="U7CLlOOGwDEL3iCLRZDy-34" value="Регистрация в системе" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+      <mxGeometry x="570" y="570" width="237.5" height="30" as="geometry" />
+    </mxCell>
+    <mxCell id="U7CLlOOGwDEL3iCLRZDy-43" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="U7CLlOOGwDEL3iCLRZDy-8" edge="1">
+      <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxPoint x="700" y="390" as="sourcePoint" />
+        <mxPoint x="830" y="520" as="targetPoint" />
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="U7CLlOOGwDEL3iCLRZDy-44" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="U7CLlOOGwDEL3iCLRZDy-31" edge="1">
+      <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxPoint x="700" y="490" as="sourcePoint" />
+        <mxPoint x="700" y="540" as="targetPoint" />
+      </mxGeometry>
+    </mxCell>
+  </root>
+</mxGraphModel>
